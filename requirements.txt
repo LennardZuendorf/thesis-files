@@ -1,0 +1,5 @@
+jupyter
+ipython
+black
+pylint
+nbqa
