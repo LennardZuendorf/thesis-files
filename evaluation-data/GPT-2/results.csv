@@ -1,0 +1,5 @@
+,framework,runtime,seq plot path,token plot path
+KernelShap,captum,00:00:12,gpt-2/KernelSHAP_sequenceplot.png,
+LIME,captum,00:00:11,gpt-2/LIME_sequenceplot.png,
+Shapley Value Sampling,captum,00:00:58,gpt-2/Shapley Value Sampling_sequenceplot.png,gpt-2/Shapley Value Sampling_tokenplot.png
+PartitionSHAP,shap,00:00:03,gpt-2/PartitionSHAP_sequenceplot.png,gpt-2/PartitionSHAP_tokenplot.png
