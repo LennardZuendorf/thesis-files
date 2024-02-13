@@ -1,13 +1,13 @@
 # Thesis File Collection
 
 ## 📜 Info:
-Collection of associated files for my bachelor thesis. Repository mostly contains Jupyter notebooks, additionally some screenshots used for evaluation.
+Collection of associated files for my bachelor thesis. The repository mainly contains Jupyter notebooks (/notebooks). Additionally, evaluation data is collected in the respective folder (/evaluation-data).
 
 ### 🔗 Links:
 
 **[Showcase Github Repository](https://github.com/LennardZuendorf/thesis-webapp)**
 
-**[Huggingface Spaces Showcase](https://huggingface.co/spaces/lennardzuendorf/thesis-webapp-docker)**
+**[Huggingface Spaces Showcase](https://huggingface.co/spaces/lennardzuendorf/thesis)**
 
 ## 👨‍💻 Author:
 
@@ -16,7 +16,11 @@ Collection of associated files for my bachelor thesis. Repository mostly contain
 **Thesis Supervisor: [Prof. Dr. Simbeck](https://www.htw-berlin.de/hochschule/personen/person/?eid=9862)**
 <br> Second Corrector: [Prof. Dr. Hochstein](https://www.htw-berlin.de/hochschule/personen/person/?eid=10628)
 
-This Project was part of my studies of Business Computing at University of Applied Science for Technology and Business Berlin (HTW Berlin).
+This Project was part of my studies of Business Computing at the University of Applied Science for Technology and Business Berlin (HTW Berlin).
+
+##  Running the Project:
+
+The Jupyter notebooks run the  best on a cloud service like Google Colab, where hardware acceleration can be used. Alternatively, they can run locally, if set up correctly. For this the requirements in the requirements.txt file should be installed.
 
 ## 📝 License and Credits:
 
@@ -27,7 +31,7 @@ This project is licensed under the MIT License, see [LICENSE](LICENSE.md) for mo
 - Author: Lennard Zündorf
 - University: HTW Berlin
 
-See code for in detailed credits, work is based on
+See code for detailed credits, work is based on
 
 #### captum
 - [GitHub](https://github.com/pytorch/captum)
