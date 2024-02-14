@@ -27,7 +27,7 @@ The Jupyter notebooks run the  best on a cloud service like Google Colab, where 
 This project is licensed under the MIT License, see [LICENSE](LICENSE.md) for more information. Please cite this project, its author and my university if you use it in your work.
 
 - Title: Building an Interpretable Natural Language AI Tool based on Transformer Models and approaches of Explainable AI.
-- Date: 2024-01-27
+- Date: 2024-02-14
 - Author: Lennard Zündorf
 - University: HTW Berlin
 
@@ -37,7 +37,7 @@ See code for detailed credits, work is based on
 - [GitHub](https://github.com/pytorch/captum)
 - [Inital Paper](https://arxiv.org/pdf/2009.07896.pdf)
 
-#### SHAP
+#### shao
 - [GitHub](https://github.com/shap/shap)
 - [Inital Paper](https://arxiv.org/abs/1705.07874)
 
